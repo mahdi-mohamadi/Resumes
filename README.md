@@ -1,4 +1,4 @@
-<div style='direction:rtl;font-family:tohoma'>
+<div style='direction:rtl;font-family:tohoma;color:blue'>
 
 # کار در مجتمع آموزش عالی امام خمینی ع به عنوان طراح نرم افزار به مدت 3 سال
 # تدریس در هنرستان های فنی و حرفه ای و کاردانش به مدت 10 سال
